@@ -1,0 +1,83 @@
+Date: 2017-10-22 10:10:00
+Backup Method: reload
+User Mode: free
+BackupGuard version: 1.1.52
+Supported archive version: 5
+Database prefix: wp_
+Site URL: https://blog.dsmtool.com
+Home URL: https://blog.dsmtool.com
+Uploads path: /var/www/html/blog/wp-content/uploads
+Site installation: standard
+OS: Linux
+Server: Apache/2.4.18 (Ubuntu)
+User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36
+PHP version: 5.6.30-10+deb.sury.org~xenial+2
+SAPI: apache2handler
+MySQL version: 5.7.19
+Int size: 8
+Int lib: BigInteger
+Memory limit: 128M
+Max execution time: 30
+Disk free space: 40.4GB
+Environment: Wordpress 4.7.5
+Backup type: database
+
+2017-10-22 10:10:00: Start backup
+2017-10-22 10:10:00: Reload method set to ajax
+2017-10-22 10:10:00: Reload method changed to stream
+2017-10-22 10:10:00: Start backup database
+2017-10-22 10:10:00: Total tables to backup: 21
+2017-10-22 10:10:00: Total rows to backup: 2360
+2017-10-22 10:10:00: Start backup table: wp_options
+2017-10-22 10:10:00: End backup table: wp_options
+2017-10-22 10:10:00: Start backup table: wp_commentmeta
+2017-10-22 10:10:00: End backup table: wp_commentmeta
+2017-10-22 10:10:00: Start backup table: wp_comments
+2017-10-22 10:10:00: End backup table: wp_comments
+2017-10-22 10:10:00: Start backup table: wp_es_deliverreport
+2017-10-22 10:10:00: End backup table: wp_es_deliverreport
+2017-10-22 10:10:00: Start backup table: wp_es_emaillist
+2017-10-22 10:10:00: End backup table: wp_es_emaillist
+2017-10-22 10:10:00: Start backup table: wp_es_notification
+2017-10-22 10:10:00: End backup table: wp_es_notification
+2017-10-22 10:10:00: Start backup table: wp_es_pluginconfig
+2017-10-22 10:10:00: End backup table: wp_es_pluginconfig
+2017-10-22 10:10:00: Start backup table: wp_es_sentdetails
+2017-10-22 10:10:00: End backup table: wp_es_sentdetails
+2017-10-22 10:10:00: Start backup table: wp_es_templatetable
+2017-10-22 10:10:00: End backup table: wp_es_templatetable
+2017-10-22 10:10:00: Start backup table: wp_ess_social_networks
+2017-10-22 10:10:00: End backup table: wp_ess_social_networks
+2017-10-22 10:10:00: Start backup table: wp_links
+2017-10-22 10:10:00: End backup table: wp_links
+2017-10-22 10:10:00: Start backup table: wp_post_views
+2017-10-22 10:10:00: End backup table: wp_post_views
+2017-10-22 10:10:00: Start backup table: wp_postmeta
+2017-10-22 10:10:00: End backup table: wp_postmeta
+2017-10-22 10:10:00: Start backup table: wp_posts
+2017-10-22 10:10:00: End backup table: wp_posts
+2017-10-22 10:10:00: Start backup table: wp_ssm_data
+2017-10-22 10:10:00: End backup table: wp_ssm_data
+2017-10-22 10:10:00: Start backup table: wp_term_relationships
+2017-10-22 10:10:00: End backup table: wp_term_relationships
+2017-10-22 10:10:00: Start backup table: wp_term_taxonomy
+2017-10-22 10:10:00: End backup table: wp_term_taxonomy
+2017-10-22 10:10:00: Start backup table: wp_termmeta
+2017-10-22 10:10:00: End backup table: wp_termmeta
+2017-10-22 10:10:00: Start backup table: wp_terms
+2017-10-22 10:10:00: End backup table: wp_terms
+2017-10-22 10:10:00: Start backup table: wp_usermeta
+2017-10-22 10:10:00: End backup table: wp_usermeta
+2017-10-22 10:10:00: Start backup table: wp_users
+2017-10-22 10:10:00: End backup table: wp_users
+2017-10-22 10:10:00: End backup database
+2017-10-22 10:10:00: Reload method changed to ajax
+2017-10-22 10:10:00: Start backup files
+2017-10-22 10:10:00: Backup files: wp-content/uploads/backup-guard/sg_backup_opt(db)_20171022101035/sg_backup_opt(db)_20171022101035.sql
+2017-10-22 10:10:00: Number of files to backup: 1
+2017-10-22 10:10:00: Start backup file: /var/www/html/blog/wp-content/uploads/backup-guard/sg_backup_opt(db)_20171022101035/sg_backup_opt(db)_20171022101035.sql
+2017-10-22 10:10:00: End backup file: /var/www/html/blog/wp-content/uploads/backup-guard/sg_backup_opt(db)_20171022101035/sg_backup_opt(db)_20171022101035.sql
+2017-10-22 10:10:00: End backup files
+2017-10-22 10:10:00: End backup
+2017-10-22 10:10:00: Total duration: 8.00 seconds
+2017-10-22 10:10:00: Archive size: 403.3KB (403252 bytes)

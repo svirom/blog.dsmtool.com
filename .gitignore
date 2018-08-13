@@ -1,0 +1,9 @@
+/*
+!/wp-content
+/wp-content/*
+!/wp-content/themes
+!/wp-content/plugins
+!/wp-content/uploads
+/wp-content/themes/twentyfifteen/
+/wp-content/themes/twentysixteen/
+!.gitignore

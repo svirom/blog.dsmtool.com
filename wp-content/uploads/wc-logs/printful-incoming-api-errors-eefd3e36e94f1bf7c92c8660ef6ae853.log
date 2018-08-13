@@ -1,0 +1,58 @@
+2018-03-21T09:15:08+00:00 ERROR Array
+(
+    [request] => Array
+        (
+            [path] => /orders/0
+            [method] => POST
+            [params] => Array
+                (
+                    [GET] => Array
+                        (
+                            [consumer_key] => ck_848b68c24b336bd8c6916c985b669b9df459126c
+                            [consumer_secret] => cs_4356ffde829c7f36d0ddcac3d1f23efc6f24e0fe
+                            [_rand] => 20589116
+                        )
+
+                    [POST] => Array
+                        (
+                        )
+
+                )
+
+            [headers] => Array
+                (
+                    [HOST] => blog.dsmtool.com
+                    [USER_AGENT] => Printful WooCommerce Integration
+                    [ACCEPT] => */*
+                    [CONTENT_TYPE] => application/json
+                    [X_NEWRELIC_ID] => VQYPU1FaGwADU1JRBAAE
+                    [X_NEWRELIC_TRANSACTION] => PxQHBVFXCFcCUwADB1AAXlVQFB8EBw8RVU4aUlwPAAJXVw4AUFFSVVwHVkNKQVkBBwdUUQRXFTs=
+                    [CONTENT_LENGTH] => 2
+                )
+
+            [files] => Array
+                (
+                )
+
+            [handler] => WC_API_JSON_Handler Object
+                (
+                )
+
+        )
+
+    [results] => Array
+        (
+            [errors] => Array
+                (
+                    [0] => Array
+                        (
+                            [code] => woocommerce_api_missing_order_data
+                            [message] => No order data specified to edit order
+                        )
+
+                )
+
+        )
+
+)
+

@@ -1,0 +1,17 @@
+array (
+  'headers' => 
+  array (
+    'X-Thrive-Authenticate' => 'c8d1b03429537bf9d6433be8864ef7b4',
+  ),
+  'body' => 
+  array (
+    'route' => 'download',
+    'tpl' => 'tcb2_set-025',
+    'form_type' => 'lightbox',
+    'multi_step' => '0',
+    'pw' => '!!@#ThriveIsTheBest123$$@#',
+  ),
+)
+
+=====
+
